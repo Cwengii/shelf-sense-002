@@ -21,6 +21,7 @@ def search_book(title):
     :param title: The title of the book to search for
     :return: A dictionary with the book's details if found, else None
     """
+    
     # TODO: Implement logic to search for a book in the database file
 
 def list_books():
